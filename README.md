@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![skasmi's 42 stats](https://badge.mediaplus.ma/levi/skasmi)](https://github.com/oakoudad/badge42)
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://cdna.artstation.com/p/assets/images/images/024/538/828/original/pixel-jeff-clipc-s.gif?1582740521)" width="25px">
 
 <a href="https://www.facebook.com/8rFRATELLO">
   <img align="left" alt="saifeddine kasmi | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
