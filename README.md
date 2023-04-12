@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 [![skasmi's 42 stats](https://badge.mediaplus.ma/levi/skasmi)](https://github.com/oakoudad/badge42)
-### Hey there <img src="![image](https://user-images.githubusercontent.com/85356628/231425561-9a8df798-8d61-43ec-9616-0d3704b2ee53.png)" width="250px">
+### Hey there <img src="![image](https://github.com/oakoudad/badge42/edit/main/example/binary.svg)" width="250px">
 
 <a href="https://www.facebook.com/8rFRATELLO">
   <img align="left" alt="saifeddine kasmi | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
