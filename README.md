@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifeddinekasmi&show_icons=true&locale=en&layout=compact" alt="saifeddinekasmi" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=saifeddinekasmi&" alt="saifeddinekasmi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifeddinekasmi&" alt="saifeddinekasmi" /></p>
